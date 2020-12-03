@@ -8,3 +8,12 @@
 *.pyc
 *.swp
 .ipynb_checkpoints/
+
+# keep only the original files from super_gonorrhoea/
+super_gonorrhoea/
+!super_gonorrhoea/23s_reference.fa
+!super_gonorrhoea/penA_alleles.fa
+!super_gonorrhoea/reference.fa
+!super_gonorrhoea/super_gc_contigs.fa
+!super_gonorrhoea/super_gc_mapped.fa
+!super_gonorrhoea/tetM.fa
