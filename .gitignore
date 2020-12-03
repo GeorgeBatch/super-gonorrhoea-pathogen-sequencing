@@ -1,2 +1,10 @@
 *.gz
 *.sql
+
+*/.DS_Store
+.DS_Store
+
+*/__pycache__
+*.pyc
+*.swp
+.ipynb_checkpoints/
